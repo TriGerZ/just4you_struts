@@ -1,3 +1,19 @@
+# NetBeans Folders
+nbproject/
+build/
+dist/
+
+# Netbeans Files
+build.xml
+manifest.mf
+
+# Temp file
+*.swp
+
+# Final submitted file
+*.zip
+
+# Compiled file
 *.class
 
 # Mobile Tools for Java (J2ME)
